@@ -1,11 +1,11 @@
 // write your code below!
 function happyHolidays(){
-  document.write('Happy holidays!');
+  return('Happy holidays!');
 }
 
 function happyHolidaysTo(){
-  document.write('Happy holidays, ${name}!')
+  document.write('Happy holidays, ${name}!');
 }
 function happyHolidayTo(){
-  document.write('Happy ${holdiay}, ${name}!')
+  document.write('Happy ${holdiay}, ${name}!');
 }
